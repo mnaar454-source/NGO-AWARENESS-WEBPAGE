@@ -28,8 +28,6 @@ NGO-AWARENESS-WEBPAGE/
 └── README.md
 ```
 
-### 🚀 Live Demo
-*(Add your GitHub Pages link here after enabling GitHub Pages.)*
 
 ### 💻 GitHub Repository
 https://github.com/mnaar454-source/NGO-AWARENESS-WEBPAGE
